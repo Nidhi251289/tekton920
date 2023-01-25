@@ -1,0 +1,11 @@
+Buildfile: \\mac\Home\Documents\Mendix\new920app-main\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 54 files to \\mac\Home\Documents\Mendix\new920app-main\deployment
+     [copy] Copying 40 files to \\mac\Home\Documents\Mendix\new920app-main\deployment\model\lib\userlib
+     [copy] Copying 8 files to \\mac\Home\Documents\Mendix\new920app-main\deployment\model\resources
+
+BUILD SUCCESSFUL
+Total time: 1 second
+
+
